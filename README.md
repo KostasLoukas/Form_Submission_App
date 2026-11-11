@@ -20,8 +20,10 @@ they can Submit their application form with the red-texted button at the bottom-
 <img width="621" height="330" alt="image" src="https://github.com/user-attachments/assets/532a7f55-e089-447b-aaa6-3d3bbd07fcfe" />
 
 A confirmation window will appear:
+
 <img width="375" height="123" alt="image" src="https://github.com/user-attachments/assets/43ef76f9-4059-4cb9-911c-0180aec55af0" />
 
 If the user pressed "No" at the confirmation window, the form will go back to the previous window.
 If the user pressed "Yes", the final confirmation dialog will appear:
+
 <img width="324" height="154" alt="image" src="https://github.com/user-attachments/assets/9e83d915-453f-45a4-b1fe-939a605cf003" />

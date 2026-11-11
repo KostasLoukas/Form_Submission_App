@@ -2,6 +2,7 @@ A simple Form Submission App made with the Windows Forms environment of Visual S
 the various functions of said environment and how they could be used to create a fully functional Form for submitting a request.
 
 Below are listed some screenshots of said tested functionalities and features.
+
 Firstly, the user has to enter their Tax Identification Number (TIN):
 
 <img width="613" height="244" alt="image" src="https://github.com/user-attachments/assets/a94a0966-6464-45fa-831c-d157ad26db3d" />

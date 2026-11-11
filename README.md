@@ -4,6 +4,7 @@ fields of its user.
 
 Below are listed some screenshots of said tested functionalities and features.
 Firstly, the user has to enter their Tax Identification Number (TIN):
+
 <img width="613" height="244" alt="image" src="https://github.com/user-attachments/assets/a94a0966-6464-45fa-831c-d157ad26db3d" />
 
 Then, after a quick check of the validity of said TIN, the following fields will appear, so they can be filled:

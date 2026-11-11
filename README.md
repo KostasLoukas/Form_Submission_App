@@ -1,4 +1,4 @@
-A simple Form Submission App made with the Windows Forms package environment of Visual Studio 2026. This app was made for testing
+A simple Form Submission App made with the Windows Forms environment of Visual Studio 2026. This app was made for testing
 the various functions for said environment and how they could be used to create a fully function Form with information filling
 fields of its user.
 

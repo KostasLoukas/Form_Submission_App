@@ -15,7 +15,7 @@ to continue. The following window will then appear:
 <img width="621" height="330" alt="image" src="https://github.com/user-attachments/assets/d0d00e37-485e-41e9-9abe-bf7a1eafb401" />
 
 There, the user can fill up the text box with free text for their application request. They can
-clear it up with the leftmost button or insert text for a file with the blue-texted button. Finally,
+clear it up with the leftmost button or insert text from a file with the blue-texted button. Finally,
 they can Submit their application form with the red-texted button at the bottom-center:
 <img width="621" height="330" alt="image" src="https://github.com/user-attachments/assets/532a7f55-e089-447b-aaa6-3d3bbd07fcfe" />
 
